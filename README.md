@@ -1,0 +1,2 @@
+# pingtable
+simple ping table
